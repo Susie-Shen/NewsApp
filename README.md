@@ -1,9 +1,10 @@
 # NewsApp
 
-##Features
-MVVM + Navigation 
+## Features
 
-Database: Room
-Image: Picasso
-Asynchronous: asyntask
-Network: Retrofit
+MVVM + Navigation   
+
+Database: Room  
+Image: Picasso  
+Asynchronous: asyntask  
+Network: Retrofit  
